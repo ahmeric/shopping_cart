@@ -1,0 +1,14 @@
+com/qokoon/shoping/enums/OfferType.java
+ com.qokoon.shoping.enums.OfferType
+com/qokoon/shoping/Product.java
+ com.qokoon.shoping.Product
+com/qokoon/shoping/Offer.java
+ com.qokoon.shoping.Offer
+com/qokoon/shoping/ShoppingItem.java
+ com.qokoon.shoping.ShoppingItem
+com/qokoon/shoping/App.java
+ com.qokoon.shoping.App
+com/qokoon/shoping/GlobalOffer.java
+ com.qokoon.shoping.GlobalOffer
+com/qokoon/shoping/ShoppingCart.java
+ com.qokoon.shoping.ShoppingCart

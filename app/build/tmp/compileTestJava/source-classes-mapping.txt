@@ -1,0 +1,4 @@
+com/qokoon/shoping/AppTest.java
+ com.qokoon.shoping.AppTest
+com/qokoon/shoping/ShoppingCartTest.java
+ com.qokoon.shoping.ShoppingCartTest

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.qokoon.shoping.ShoppingCartTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-01-17T13:34:54" hostname="MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="step_6" classname="com.qokoon.shoping.ShoppingCartTest" time="0.01"/>
+  <testcase name="step_1" classname="com.qokoon.shoping.ShoppingCartTest" time="0.0"/>
+  <testcase name="step_2" classname="com.qokoon.shoping.ShoppingCartTest" time="0.001"/>
+  <testcase name="step_3" classname="com.qokoon.shoping.ShoppingCartTest" time="0.0"/>
+  <testcase name="step_4_1" classname="com.qokoon.shoping.ShoppingCartTest" time="0.001"/>
+  <testcase name="step_4_2" classname="com.qokoon.shoping.ShoppingCartTest" time="0.0"/>
+  <testcase name="step_5" classname="com.qokoon.shoping.ShoppingCartTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
